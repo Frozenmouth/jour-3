@@ -21,7 +21,7 @@ while étage < 10
  puts "tu es à l'étage #{étage}"
 end
  puts"tu es un champion, la prochaine fois, prend l'ascenseur"	
- puts 'Tu as joué #{i}fois'
+ puts "Tu as joué #{i} fois"
  return i
 end
 
